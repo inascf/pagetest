@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: "./actions"
+    assetsDir: "actions"
 }
